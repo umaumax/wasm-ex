@@ -11,23 +11,25 @@ source ~/dev/emsdk/emsdk_env.sh
 * [wat2wasm demo]( https://webassembly.github.io/wabt/demo/wat2wasm/ )
 * [WebAssembly/wabt: The WebAssembly Binary Toolkit]( https://github.com/webassembly/wabt )
 
-## wasmtime
+## runtime
+### wasmtime
 TODO
 
-## wasmer
+### wasmer
 TODO
 
-## WasmEdge
+### WasmEdge
 TODO
 
 [WebAssembly Proposals | WasmEdge Developer Guides]( https://wasmedge.org/docs/start/wasmedge/extensions/proposals/ )
 
-## Node.js
+## Languages
+### Node.js
 ``` bash
 ./run.js
 ```
 
-## Python
+### Python
 ``` bash
 python3 -m venv .
 source ./bin/activate
@@ -37,13 +39,13 @@ pip install -r requirements.txt
 ./run.py
 ```
 
-## Rust
+### Rust
 TODO
 
-## Go
+### Go
 TODO
 
-## C/C++
+### C/C++
 TODO
 
 ## Questions
